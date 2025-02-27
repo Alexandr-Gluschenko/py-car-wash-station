@@ -59,5 +59,3 @@ income = wash_station.serve_cars([bmw, audi])
 
 print(income)  # 6.3
 print(bmw.clean_mark)  # 6
-
-
